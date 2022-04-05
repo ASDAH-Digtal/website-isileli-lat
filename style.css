@@ -41,3 +41,7 @@
 .copyright {
     grid-area: copyright;
 }
+
+img {
+    width: 100%;
+}
