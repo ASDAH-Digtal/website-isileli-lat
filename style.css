@@ -24,6 +24,7 @@
 
 .list {
     grid-area: list;
+    background-color: aquamarine;
 }
 
 .video {
@@ -33,6 +34,8 @@
 .image_two {
     grid-area: image_two;
 }
+
+
 
 .references {
     grid-area: references;
